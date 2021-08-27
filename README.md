@@ -13,3 +13,4 @@ All figures are in the *figures* folder.
 
 There is one presentation I did a presentation for my friends in the [GFC](https://github.com/gfc-fiscomp) group. The PDF and latex's source are in this repo. My final report in PDF and latex's source is here as well.
 
+I did a presentation video for [SIC 2021](https://www.ufrgs.br/salaoufrgs/). You can find the youtube link in this [link](https://www.youtube.com/watch?v=BDXtHH5AlC0). The presentation file, abstract and the latex project can be found as well. The video and the presentation files are in portuguese.
